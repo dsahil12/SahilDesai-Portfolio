@@ -11,11 +11,9 @@ Hello! My name is **Sahil Desai** (he/him), and I am currently pursuing my Maste
 Throughout my career, I've had the opportunity to work in diverse roles, where I spearheaded initiatives that improved market share, product adoption, and customer satisfaction. I am passionate about creating impactful products that address real user needs. I am excited to continue my journey in the tech industry, focusing on roles that blend product management and data-driven decision-making.
 
 ## What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things. If so, I can do so in Markdown like this:
-
-1. Understand how design elements like color, type, and visual style impact how viewers perceive and interpret data.
-2. Learn effective techniques for presenting complex data clearly and compellingly to support storytelling and decision-making.
-3. Explore new tools and methodologies for data visualization, enhancing my skills in product management and data-driven insights.
+1. 1. Understand how design elements like color, type, and visual style impact how viewers perceive and interpret data.
+2. 2. Learn effective techniques for presenting complex data clearly and compellingly to support storytelling and decision-making.
+3. 3. Explore new tools and methodologies for data visualization, enhancing my skills in product management and data-driven insights.
 
 ## Portfolio
 
