@@ -14,8 +14,7 @@ For this part of the assignment, I used web-based visualization tools to analyze
 
 ## Working with Tableau
 
-[![Tableau Visualization Preview](https://via.placeholder.com/600x400?text=Tableau+Preview)](https://us-east-1.online.tableau.com/t/sahildes-ef7ee66739/views/GDPHeatmap/GovernmentDebtRepresentation?:origin=card_share_link&:embed=n)
-
+To view the Tableau visualization, [click here](tableau-visual.html).
 
 _A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
 
