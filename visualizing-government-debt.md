@@ -14,7 +14,14 @@ For this part of the assignment, I used web-based visualization tools to analyze
 
 ## Working with Tableau
 
-To view the Tableau visualization, [click here](tableau-viz.html).
+# Tableau Visualization
+
+To view the Tableau visualization, [click here](https://dsahil12.github.io/SahilDesai-Portfolio/tableau-viz.html).
+
+Alternatively, you can try embedding it directly below:
+
+<iframe src="https://dsahil12.github.io/SahilDesai-Portfolio/tableau-viz.html" width="100%" height="800" style="border:none;"></iframe>
+
 
 _A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
 
