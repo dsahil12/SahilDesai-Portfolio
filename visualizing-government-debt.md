@@ -1,13 +1,16 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here!
+# General Government Debt Overview
 
-_As before, this template provides some of the structure you should have for your assignment, but the official instructions and guidance can be found on Canvas.  Make sure to reference that for detailed instructions on what you need to do and what you need to submit to get credit._
+It is the gross debt of the general government expressed as a percentage of GDP. Debt is calculated as the sum of the following liability categories where applicable: currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable. This indicator serves as a key measure of the sustainability of government finance, with changes in government debt over time primarily reflecting the impact of past government deficits.
 
-## Part one: Working with web-based visualization tools and data
+## Part One: Working with Web-Based Visualization Tools and Data
 
-_Include your visualization, and introduce us to what you did._
+I downloaded this image from the oecd.org site, which enabled me to manipulate and display the data in a user-friendly format. The main objective was to identify trends, patterns, and outliers within the dataset.
+
+![General Government Debt](General%20government%20debt.png)
+
+For this part of the assignment, I used web-based visualization tools to analyze data on general government debt across various countries. The visualization, titled **General government debt**, provides a clear representation of the debt levels, expressed as a percentage of GDP, for different nations. The data highlights the comparative debt burdens and allows for insights into how economic policies and fiscal management vary globally.
 
 ## Working with Tableau
 
