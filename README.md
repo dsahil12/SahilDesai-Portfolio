@@ -17,7 +17,7 @@ Throughout my career, I've had the opportunity to work in diverse roles, where I
 
 ## Portfolio
 
-### Assignment: [Visualizing Government Debt](visualizing-government-debt)
+### Assignment (click the link to expand): [Visualizing Government Debt](visualizing-government-debt)
 <div class='tableauPlaceholder' id='viz1726004878609' style='position: relative'>
   <noscript>
   <a href='#'>
