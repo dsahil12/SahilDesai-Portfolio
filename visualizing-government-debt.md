@@ -14,6 +14,8 @@ For this part of the assignment, I used web-based visualization tools to analyze
 
 ## Working with Tableau
 
+[Visualizing Government Debt](visualizing-government-debt)
+
 ## Part three: create your own visualization
 
 _Create another data visualization using the same data used earlier. DO NOT submit something that's just a minor modification of one of the visualizations already covered here. So, don't just modify the colors or labels of one of the earlier examples and call it good, or submit a slightly modified bar chart.  Instead, see what you can come up with on your own, and spend some time to try and create something that tells a story about the data._
