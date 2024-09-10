@@ -45,20 +45,22 @@ For this part of the assignment, I used web-based visualization tools to analyze
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
   </script>
 
-## Part three: create your own visualization
+## Part three: My Own Visualization
 
-
-<div class='tableauPlaceholder' id='viz1725997252152' style='position: relative'><noscript><a href='#'>
-  <img alt='Total Government Debt Representation - TreeMapsSource: https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GD&#47;GDPHeatmap_17259971480980&#47;TotalGovernmentDebtRepresentation-TreeMaps&#47;1_rss.png' style='border: none' />
-</a>
-</noscript>
+<div class='tableauPlaceholder' id='viz1726004878609' style='position: relative'>
+  <noscript>
+  <a href='#'>
+    <img alt='Total Government Debt RepresentationSource: https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GovernmentDebtRepresentation&#47;TotalGovernmentDebtRepresentation&#47;1_rss.png' style='border: none' />
+  </a>
+  </noscript>
   <object class='tableauViz'  style='display:none;'>
     <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-    <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
-    <param name='name' value='GDPHeatmap_17259971480980&#47;TotalGovernmentDebtRepresentation-TreeMaps' />
+    <param name='embed_code_version' value='3' /> 
+    <param name='site_root' value='' />
+    <param name='name' value='GovernmentDebtRepresentation&#47;TotalGovernmentDebtRepresentation' />
     <param name='tabs' value='no' />
     <param name='toolbar' value='yes' />
-    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GD&#47;GDPHeatmap_17259971480980&#47;TotalGovernmentDebtRepresentation-TreeMaps&#47;1.png' /> 
+    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GovernmentDebtRepresentation&#47;TotalGovernmentDebtRepresentation&#47;1.png' /> 
     <param name='animate_transition' value='yes' />
     <param name='display_static_image' value='yes' />
     <param name='display_spinner' value='yes' />
@@ -69,15 +71,13 @@ For this part of the assignment, I used web-based visualization tools to analyze
   </object>
 </div>                
 <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1725997252152');                    
+  var divElement = document.getElementById('viz1726004878609');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
-_Create another data visualization using the same data used earlier. DO NOT submit something that's just a minor modification of one of the visualizations already covered here. So, don't just modify the colors or labels of one of the earlier examples and call it good, or submit a slightly modified bar chart.  Instead, see what you can come up with on your own, and spend some time to try and create something that tells a story about the data._
 
 _Summarize in a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization.  Be specific - keep your writeup relevant to the assignment, and avoid jargon-filled language that doesn't say anything useful._
 
