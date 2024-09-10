@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://dsahil12.github.io/SahilDesai-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # General Government Debt Overview
 
@@ -6,13 +6,14 @@ It is the gross debt of the general government expressed as a percentage of GDP.
 
 ## Part One: Working with Web-Based Visualization Tools and Data
 
-I downloaded this image from the oecd.org site, which enabled me to manipulate and display the data in a user-friendly format. The main objective was to identify trends, patterns, and outliers within the dataset.
+I downloaded this image from the oecd.org site, which enabled me to manipulate and display the data in a user-friendly format. The main objective was identifying trends, patterns, and outliers within the dataset.
+
 
 ![General Government Debt](General government debt.png)
 
-For this part of the assignment, we used a bar chart a popular visualization method that uses bars to depict values across different categories, making it ideal for straightforward comparisons. The image is coming from a web-based visualization tool that analyzes data on general government debt across various countries. The visualization, titled **General government debt**, provides a clear representation of the debt levels, expressed as a percentage of GDP, for different nations. The data highlights the comparative debt burdens and allows for insights into how economic policies and fiscal management vary globally.
+For this part of the assignment, we used a bar chart, a popular visualization method that uses bars to depict values across different categories, making it ideal for straightforward comparisons. Providing a clear representation of the debt levels, expressed as a percentage of GDP, for different nations. The data highlights the comparative debt burdens and allows for insights into how economic policies and fiscal management vary globally.
 
-## Working with Tableau
+## Part Two: Working with Tableau
 
 <div class='tableauPlaceholder' id='viz1726003418336' style='position: relative'>
   <noscript>
@@ -48,7 +49,7 @@ For this part of the assignment, we used a bar chart a popular visualization met
 The heatmap displays government debt as a percentage of GDP for various countries from 1995 to 2019, using blue for lower debt and orange for higher debt. It quickly highlights trends, with Japan, Greece, and Italy showing consistently high debt (orange), while Estonia, Turkey, and the Czech Republic have lower levels (blue). This visualization effectively captures comparative debt trends across countries and over time.
 
 
-## Part three: My Own Visualization
+## Part Three: My Own Visualization
 
 <div class='tableauPlaceholder' id='viz1726004878609' style='position: relative'>
   <noscript>
@@ -81,6 +82,7 @@ The heatmap displays government debt as a percentage of GDP for various countrie
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
 
 I chose a bubble chart to represent countries' debt as a percentage of GDP, which is a type of scatter plot that uses the size of each circle to depict debt levels, with larger circles indicating higher debt. This approach combines visual quantity (size) with qualitative insights (color gradient), offering a multi-dimensional view that helps quickly identify which countries have the highest and lowest debt levels relative to their GDP. The bubble chart also highlights clusters of countries with similar debt levels, making it well-suited for comparative financial analysis across nations.
 
