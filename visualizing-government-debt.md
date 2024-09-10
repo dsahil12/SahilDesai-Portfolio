@@ -8,7 +8,7 @@ It is the gross debt of the general government expressed as a percentage of GDP.
 
 I downloaded this image from the oecd.org site, which enabled me to manipulate and display the data in a user-friendly format. The main objective was to identify trends, patterns, and outliers within the dataset.
 
-![General Government Debt](General%20government%20debt.png)
+![General Government Debt](Government Debt Visual.md)
 
 For this part of the assignment, I used web-based visualization tools to analyze data on general government debt across various countries. The visualization, titled **General government debt**, provides a clear representation of the debt levels, expressed as a percentage of GDP, for different nations. The data highlights the comparative debt burdens and allows for insights into how economic policies and fiscal management vary globally.
 
