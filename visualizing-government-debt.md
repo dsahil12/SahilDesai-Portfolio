@@ -45,7 +45,7 @@ For this part of the assignment, we used a bar chart, a popular visualization me
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
   </script>
-
+<br>
 The heatmap displays government debt as a percentage of GDP for various countries from 1995 to 2019, using blue for lower debt and orange for higher debt. It quickly highlights trends, with Japan, Greece, and Italy showing consistently high debt (orange), while Estonia, Turkey, and the Czech Republic have lower levels (blue). This visualization effectively captures comparative debt trends across countries and over time.
 
 
@@ -80,8 +80,7 @@ The heatmap displays government debt as a percentage of GDP for various countrie
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
   </script>
-
-
+<br>
 I chose a bubble chart to represent countries' debt as a percentage of GDP, which is a type of scatter plot that uses the size of each circle to depict debt levels, with larger circles indicating higher debt. This approach combines visual quantity (size) with qualitative insights (color gradient), offering a multi-dimensional view that helps quickly identify which countries have the highest and lowest debt levels relative to their GDP. The bubble chart also highlights clusters of countries with similar debt levels, making it well-suited for comparative financial analysis across nations.
 
 Compared to heatmaps and bar charts, the bubble chart provides a more dynamic and engaging way to present multidimensional data, emphasizing both proportional sizes and relative values. Unlike heatmaps, which display data in a grid-like format without size dimensions, or bar charts that may not clearly depict clusters of values, the bubble chart effectively merges these elements, making it an excellent choice for visualizing complex financial data in a visually compelling and easily interpretable manner.
