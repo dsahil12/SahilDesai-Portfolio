@@ -10,7 +10,7 @@ I downloaded this image from the oecd.org site, which enabled me to manipulate a
 
 ![General Government Debt](General government debt.png)
 
-For this part of the assignment, I used web-based visualization tools to analyze data on general government debt across various countries. The visualization, titled **General government debt**, provides a clear representation of the debt levels, expressed as a percentage of GDP, for different nations. The data highlights the comparative debt burdens and allows for insights into how economic policies and fiscal management vary globally.
+For this part of the assignment, we used a bar chart a popular visualization method that uses bars to depict values across different categories, making it ideal for straightforward comparisons. The image is coming from a web-based visualization tool that analyzes data on general government debt across various countries. The visualization, titled **General government debt**, provides a clear representation of the debt levels, expressed as a percentage of GDP, for different nations. The data highlights the comparative debt burdens and allows for insights into how economic policies and fiscal management vary globally.
 
 ## Working with Tableau
 
@@ -44,6 +44,9 @@ For this part of the assignment, I used web-based visualization tools to analyze
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
   </script>
+
+The heatmap displays government debt as a percentage of GDP for various countries from 1995 to 2019, using blue for lower debt and orange for higher debt. It quickly highlights trends, with Japan, Greece, and Italy showing consistently high debt (orange), while Estonia, Turkey, and the Czech Republic have lower levels (blue). This visualization effectively captures comparative debt trends across countries and over time.
+
 
 ## Part three: My Own Visualization
 
@@ -79,9 +82,12 @@ For this part of the assignment, I used web-based visualization tools to analyze
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-_Summarize in a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization.  Be specific - keep your writeup relevant to the assignment, and avoid jargon-filled language that doesn't say anything useful._
+I chose a bubble chart to represent countries' debt as a percentage of GDP, which is a type of scatter plot that uses the size of each circle to depict debt levels, with larger circles indicating higher debt. This approach combines visual quantity (size) with qualitative insights (color gradient), offering a multi-dimensional view that helps quickly identify which countries have the highest and lowest debt levels relative to their GDP. The bubble chart also highlights clusters of countries with similar debt levels, making it well-suited for comparative financial analysis across nations.
 
-_It's a good idea to go back and review your work.  Could someone follow your process and understand what you did?  Do you need to further connect any of the sections with a bit of text?  Is it something you'd be happy to have as an example of your work from the class?_
+Compared to heatmaps and bar charts, the bubble chart provides a more dynamic and engaging way to present multidimensional data, emphasizing both proportional sizes and relative values. Unlike heatmaps, which display data in a grid-like format without size dimensions, or bar charts that may not clearly depict clusters of values, the bubble chart effectively merges these elements, making it an excellent choice for visualizing complex financial data in a visually compelling and easily interpretable manner.
 
+# Summary
+The data source for this bubble chart is the OECD's general government debt indicators, which measure gross government debt as a percentage of GDP. This debt includes liabilities such as currency, deposits, securities, loans, and other accounts payable. It's a key metric for assessing the sustainability of government finances, reflecting the impact of past deficits. The indicator provides a clear comparison of debt levels across countries, highlighting financial disparities effectively.
 
-
+### Reflection
+Overall, the bubble chart was chosen over heatmaps and bar charts because of its ability to represent multidimensional data effectively, allowing viewers to quickly grasp the overall landscape of global debt levels.
