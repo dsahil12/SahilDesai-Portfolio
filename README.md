@@ -48,6 +48,8 @@ Throughout my career, I've had the opportunity to work in diverse roles, where I
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
   </script>
+<br>
+This bubble chart represents countries' debt as a percentage of GDP, a type of scatter plot that uses the size of each circle to depict debt levels, with larger circles indicating higher debt. This approach combines visual quantity (size) with qualitative insights (color gradient). It offers a multi-dimensional view that helps quickly identify which countries have the highest and lowest debt levels relative to their GDP.
 
 ### Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called `critique-by-design.md`.
