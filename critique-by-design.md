@@ -7,22 +7,22 @@ Throughout the critique phases, I used the structured evaluation method to ident
 
 Now, let's walk through the steps that led to the outcome.
 
-## Step one: the visualization
+## Step one: The Visualization
 
 ![Brand Value by Sector](Brand Value by Sector.png)
- 
-I chose this visualization because it offers a quick snapshot of brand value across sectors, which is critical for understanding market leadership. The original visual from Brand Finance Global 500 - 2023 Report. Which effectively highlights key sectors and shows their share of global brand value. However, the donut chart format made comparing sectors with similar values hard, and more detailed insights about the specific brands within each sector were needed.
-
-I saw an opportunity to improve the clarity and relevance of this visual, especially for business executives who need to identify leading brands for potential partnerships. My goal was to simplify the design, focus on top brands, and make the data more actionable for strategic decision-making.
-
 Access to the report: https://static.brandirectory.com/reports/brand-finance-global-500-2023-preview.pdf
 
-## Step two: the critique
-1. The pie chart did not allow for accurate comparisons, especially when sector values were similar. The accompanying table was useful but didn’t fully resolve the chart's shortcomings.
+ 
+**Original Data Visualization:** I chose this visualization because it offers a quick snapshot of brand value across sectors, which is critical for understanding market leadership. The original visual from Brand Finance Global 500 - 2023 Report. Which effectively highlights key sectors and shows their share of global brand value. However, the donut chart format made comparing sectors with similar values hard, and more detailed insights about the specific brands within each sector were needed.
 
-2. Suggestions for improvement included switching to a horizontal bar chart for better visual comparison and making the visualization more interactive or less cluttered.
+I saw an opportunity to improve the clarity and relevance of this visual, especially for business executives who need to identify leading brands for potential partnerships. My goal was to simplify the design, focus on top brands, and make the data more actionable for strategic decision-making. 
 
-3. The feedback also highlighted the need for a simplified color palette and more detailed brand information to improve relevance and make the data more useful for business professionals.
+**Dataset:** The original dataset includes key attributes: brand values (in USD billions), percentage shares of the total market, and the number of brands categorized by sector. Providing a straightforward overview of how different sectors contribute to global brand value. While the dataset is simple, it fails to offer a detailed breakdown of brands and other insights into the market distribution of leading brands across various industries.
+
+## Step two: The Critique (Google Form)
+I completed a Google form to critique my chosen data visualization. While the pie chart was visually appealing and included essential data like brand value and a number of brands, it fell short of enabling accurate comparisons between sectors. The format made it difficult to discern differences, especially for sectors with similar values.
+
+Overall, there is a need to shift from a pie chart to a horizontal bar chart would improve clarity and accuracy, making comparisons more intuitive and useful for business professionals. Simplifying the color scheme and focusing on more interactive elements would enhance engagement and functionality. This critique reinforced my decision to redesign the visualization for clarity and decision-making support.
 
 ## Step three: Sketch a solution
 ![Sketch](Sketch.jpg)
