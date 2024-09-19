@@ -9,7 +9,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-![Sketch](Brand Value by Sector.png)
+![Brand Value by Sector](Brand Value by Sector.png)
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
@@ -20,11 +20,7 @@ _Don't forget to complete the Google Form found on the assignment page.  You can
 ![Sketch](Sketch.jpg)
 
 ## Step four: Test the solution
-
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
 Results: 
-
 
 
 | Question | Interview 1 (Student, Mid-20’s) | Interview 2 (Adult, Early-30’s) |
