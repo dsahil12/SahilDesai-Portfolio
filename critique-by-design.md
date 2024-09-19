@@ -10,8 +10,12 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 ## Step one: the visualization
 
 ![Brand Value by Sector](Brand Value by Sector.png)
+ 
+I chose this visualization because it offers a quick snapshot of brand value across sectors, which is critical for understanding market leadership. The original visual from Brand Finance Global 500 - 2023 Report. Which effectively highlights key sectors and shows their share of global brand value. However, the donut chart format made comparing sectors with similar values hard, and more detailed insights about the specific brands within each sector were needed.
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+I saw an opportunity to improve the clarity and relevance of this visual, especially for business executives who need to identify leading brands for potential partnerships. My goal was to simplify the design, focus on top brands, and make the data more actionable for strategic decision-making.
+
+Access to the report: https://static.brandirectory.com/reports/brand-finance-global-500-2023-preview.pdf
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
