@@ -26,6 +26,7 @@ Overall, there is a need to shift from a pie chart to a horizontal bar chart wou
 
 ## Step three: Sketch a solution
 ![Sketch](Sketch.jpg)
+I created the above wireframes to map out some of the changes I plan to redesign in the final visualization. The wireframes focused on simplifying the original pie chart visualization. In the new design, each bar represents a sector, with brand values and sector names embedded within the bars to reduce clutter. This layout is cleaner and has comparisons between sectors and improves readability. Additionally, the color scheme is designed to associate with each sector, for example, green for Banking and golden for Oil.
 
 ## Step four: Test the solution
 Results: 
