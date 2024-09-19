@@ -20,32 +20,21 @@ _Don't forget to complete the Google Form found on the assignment page.  You can
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Interview 1 | Interview 2 |
+| Question | Interview 1 (Student, Mid-20’s) | Interview 2 (Adult, Early-30’s) |
 |----------|-------------|-------------|
-|          |             |             |
+|What’s your first impression of this visualization?          |I can tell it’s showing how different sectors are compared in terms of brand value. The title, Top 9 Sectors by Value, clearly indicates the focus, and the bar chart layout makes it easy to understand. I immediately knew I was looking at ranked data with each sector represented by a different colored bar.             |It’s straightforward to follow. The bar chart format is familiar, so I can quickly tell it’s comparing sectors by brand value. You’ve done a “good job simplifying the data.”             |
 |          |             |             |
 |          |             |             |
 
-Synthesis: 
+**Synthesis:**
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Based on interviews, I identified that the visual needs a cleaner and more simplified version, which is less cluttered in design. They emphasized simplifying the color scheme and remodeling the visual by moving the labels more efficiently, such as moving sector names outside the bars. 
+
+Additionally, the x-axis title ($USD Billions) should be removed, and dollar signs should be incorporated into the values. This feedback indicates that the final redesign should focus on clarity, minimizing visual clutter, and making the data more accessible for professionals to interpret at a glance.
 
 ## Step five: build the solution
 
