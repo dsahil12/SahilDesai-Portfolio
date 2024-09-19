@@ -1,11 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# Critique by Design with Tableau (MakeoverMonday)
 
 ## Step one: the visualization
 
@@ -18,7 +13,11 @@ I saw an opportunity to improve the clarity and relevance of this visual, especi
 Access to the report: https://static.brandirectory.com/reports/brand-finance-global-500-2023-preview.pdf
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+1. The pie chart did not allow for accurate comparisons, especially when sector values were similar. The accompanying table was useful but didn’t fully resolve the chart's shortcomings.
+
+2. Suggestions for improvement included switching to a horizontal bar chart for better visual comparison and making the visualization more interactive or less cluttered.
+
+3. The feedback also highlighted the need for a simplified color palette and more detailed brand information to improve relevance and make the data more useful for business professionals.
 
 ## Step three: Sketch a solution
 ![Sketch](Sketch.jpg)
@@ -91,7 +90,7 @@ Additionally, the feedback suggested tailoring the visualization to suit the per
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
+<br>
 
 The finalized version of the visualization, as seen above, titled "Global Brand Value Landscape: Key Players Across Sectors," has been tailored to help executives, particularly CEOs, in identifying potential partnership opportunities across various sectors. The visual features a clear and clean bar chart showcasing the brand value of the top sectors, with the brand value represented in billions of USD. The visual also includes the top three brands in each sector, providing an immediate view of key players. It can help the executive make any key decision about partnering with some of the leaders in different sectors.
 
