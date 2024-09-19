@@ -1,6 +1,11 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique by Design with Tableau (MakeoverMonday)
+In this project, I documented my progress and reflected on the process of critiquing and redesigning as I moved toward building a final visual. This is quite similar to a journal, where I captured the key insights and changes I made.
+
+Throughout the critique phases, I used the structured evaluation method to identify the strengths and weaknesses of the original visualization. As I moved forward, I transitioned into sketching, redesigning, and focusing on improvements suggested by my critique and user feedback. Each testing stage provided valuable input, which I incorporated into the final design to meet the intended audience's needs better.
+
+Now, let's walk through the steps that led to the outcome.
 
 ## Step one: the visualization
 
