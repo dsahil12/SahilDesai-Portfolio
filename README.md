@@ -84,7 +84,9 @@ This bubble chart represents countries' debt as a percentage of GDP, a type of s
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 <br>
+As seen above, the finalized version of the visualization has been tailored to help executives, particularly CEOs, identify potential partnership opportunities across various sectors. The visual features a clear bar chart showcasing the brand value of the top sectors, with the brand value represented in billions of USD. It also includes the top three brands in each sector, providing an immediate view of key players. It can help the executive make any key decision about partnering with some of the leaders in different sectors.
 
+Simplified the color scheme to enhance clarity without overwhelming the viewer. There are 3 distinct columns to highlight critical attributes for a more streamlined look. This static, easy-to-read visualization is ideal for an executive audience, offering strategic insights in a less cluttered and more professional format.
 
 ### Final Project
 Here it might be helpful to include a high-level description of your final project.
