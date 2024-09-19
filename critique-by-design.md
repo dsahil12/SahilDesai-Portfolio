@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://dsahil12.github.io/SahilDesai-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique by Design with Tableau (MakeoverMonday) - Overview
 In this project, I documented my progress and reflected on the process of critiquing and redesigning as I moved toward building a final visual. This is quite similar to a journal, where I captured the key insights and changes I made.
