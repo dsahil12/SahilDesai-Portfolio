@@ -15,6 +15,7 @@ _Include link to the original data visualization (or screenshot - make sure to c
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 ## Step three: Sketch a solution
+![Sketch](Sketch.jpg)
 
 ## Step four: Test the solution
 
@@ -40,7 +41,23 @@ Based on interviews, I identified that the visual needs a cleaner and more simpl
 
 Additionally, the x-axis title ($USD Billions) should be removed, and dollar signs should be incorporated into the values. This feedback indicates that the final redesign should focus on clarity, minimizing visual clutter, and making the data more accessible for professionals to interpret at a glance.
 
-## Step five: build the solution
+## Step five: Instructors Feedback
+
+The instructor and the teaching assistant recommended looking into the metadata for the dataset. For instance, looking into the different brands that fall under the sector. Giving me a detailed understanding of the sectors and enhance the analysis. 
+
+Additionally, the feedback suggested tailoring the visualization to suit the perspective of an executive, such as the CEO of a tech company, to aid in making decisions around potential partnerships with leaders in different sectors. The focus was on creating a static, clear, and less cluttered visualization that was visually appealing to an executive audience.
+
+**Actions Taken:**
+1. **Scraping and Organizing Data:** Using ChatGPT, I scraped the report and reviewed the website to get a comprehensive list of brands under each sector. I then classified the data to highlight the top 3 brands in each sector, providing more context to the visualization and making it easier for executives to identify key players.
+
+2. **Tailoring for Executive Use:** I designed the visualization with a CEO or executive in mind. In particular, I aimed to support someone in the tech sector who might be considering partnerships with top brands in other sectors. With this context in mind, I ensured the visualization was Static and Less Cluttered.
+
+3. **Simplified Color Scheme:** I used ColorBrewer to choose a simple and consistent color palette to keep the visual look professional, as discussed in the course. This enhances clarity and ensures the colors are easy to distinguish, even in a static format.
+
+4. **Executive Focus:** By keeping the visual clean and focused, I aimed to present data to allow an executive to quickly grasp key insights, such as which sectors are leading and which brands are the top performers in those sectors. This helps facilitate decision-making without overwhelming the viewer with unnecessary details.
+
+
+## Step six: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
