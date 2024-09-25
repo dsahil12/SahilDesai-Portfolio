@@ -2,7 +2,7 @@
 
 
 # Outline
-> Understanding how the 'Big Three' Middle East airlines — Emirates, Qatar, and Etihad Airways are handling the in-demand US routes with their current fleet. Etihad plans to expand its footprint in the US and order new aircraft. 
+> Understanding how the ‘Big Three’ Middle East airlines — Emirates, Qatar, and Etihad Airways are handling the in-demand US routes with their current fleet. Etihad plans to expand its footprint in the US and order new aircraft. 
  
 The focus of this project is to provide strategic insights to the CEO of Etihad Airways regarding the profitability of US routes and optimal allocation of the newly acquired Airbus A350 aircraft. As Etihad expands its fleet with new A350s, the airline needs to make data-driven decisions on utilizing this aircraft model best to maximize profitability and efficiency on US routes. The project will analyze flight data for Etihad’s current US routes, examining seat capacity, flight frequency, distance, and aircraft type factors. Allowing the airline to see how some of the direct competitors are doing and how it had been most helpful to them when it comes to handling flights to and from the USA.
 
@@ -31,6 +31,6 @@ A quick overview of the data (by Simple Fly) shows Emirates rates 14 routes, Qat
 > Link to the dataset I uploaded to Github which consists of the data I will use to conduct this analysis.
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+> I plan to use Tableau Dasboard to make the visuals more engaging/interactive or RAWGraphs to build static visualizations.
 
-Text here...
+Providing a clear and interactive overview of the insights. These tools will allow me to visualize key metrics, such as route profitability and aircraft allocation, in a way that helps Etihad’s CEO better understand passenger demand, route efficiency, and how to allocate their Airbus fleet strategically.
