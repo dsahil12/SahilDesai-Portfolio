@@ -8,7 +8,7 @@ The focus of this project is to provide strategic insights to the CEO of Etihad 
 
 Through various visualizations, I plan to provide actionable insights into routes that generate the highest profitability, how the A350s can be effectively distributed across routes, and where reallocating existing double-deckers (A380/B787) to improve operational efficiency and carbon footprint.
 
-> Below is the project structure that outlines the major elements of your story.
+> Below is the project structure that outlines the main elements of my story and the user curve, showing an example of a user.
 
 ![User Curve](User Curve.jpg)
 
@@ -25,12 +25,12 @@ Likewise, it also optimized A380 double-decker usage. While we expect new A350s,
 
 # The data
 > [Link to access the article](https://simpleflying.com/emirates-etihad-qatar-airways-us-networks-comparison/)
-> 
+
 The primary data source comes from Simple Flying, a well-known source for the latest trends and news in the aviation industry. This article discusses the most recent airline routes, connectivity, and seat capacity across three Middle Eastern airlines (Emirates, Etihad, and Qatar Airways). The dataset includes comprehensive flight information for September 2024, breaking down each airline’s operational details, like the number of routes. I manually broke down further information like departure and arrival cities. Likewise, we can see the distances, number of flights, and aircraft types. 
 
 A quick overview of the data (by Simple Fly) shows Emirates rates 14 routes, Qatar Airways has 11, and Etihad flies 4 routes. These routes are operated by aircraft, including the A380-800 and A350-1000, covering distances up to 8,334 miles. The distance and aircraft usage will help highlight each airline’s strategy for the US market. By comparing route efficiency and capacity, the data can support a business analysis of these airlines’ understanding of the approaches to serving long-haul US destinations.
 
-> Link to the dataset I uploaded to Github which consists of the data I will use to conduct this analysis.
+> [Link to the dataset I uploaded to Github, which consists of the data I will use to conduct this analysis.](MiddleEast Airlines.xlsx)
 
 # Method and medium
 > I plan to use Tableau Dasboard to make the visuals more engaging/interactive or RAWGraphs to build static visualizations.
