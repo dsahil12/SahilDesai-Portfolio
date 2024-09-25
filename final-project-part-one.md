@@ -10,6 +10,8 @@ Through various visualizations, I plan to provide actionable insights into route
 
 > Below is the project structure that outlines the major elements of your story.
 
+![User Curve](User Curve.jpg)
+
 Throughout the final project, I plan to understand better how the competitors have historically tackled US-bound flights so that at Ethaid, we can efficiently allocate the fleet and increase aircraft efficiency.
 
 Also, as Ethaid is expecting the delivery of new A350s, which have [roven to be efficient in long-haul flights, and the Qatar fleet consists of the majority of those so, will work on analyzing the suitability of Airbus A350 by looking at the seating capacity and current routes, in addition to that, we need to understand how they can enter a new city by servicing them before the competitor enters. The goal will be to recommend routes where the A350s can replace less efficient aircraft and maximize fuel efficiency and profitability. I will create visuals that compare seat capacity for different aircraft types.
@@ -19,7 +21,7 @@ Likewise, it also optimized A380 double-decker usage. While we expect new A350s,
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+![Initial Sketch](Initial Sketch.jpg)
 
 # The data
 > [Link to access the article](https://simpleflying.com/emirates-etihad-qatar-airways-us-networks-comparison/)
