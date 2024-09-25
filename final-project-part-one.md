@@ -2,7 +2,7 @@
 
 
 # Outline
-> Understanding how the ‘Big Three’ Middle East airlines — Emirates, Qatar, and Etihad Airways are handling the in-demand US routes with their current fleet. Etihad plans to expand its footprint in the US and order new aircraft. 
+> Understanding how the 'Big Three' Middle East airlines — Emirates, Qatar, and Etihad Airways are handling the in-demand US routes with their current fleet. Etihad plans to expand its footprint in the US and order new aircraft. 
  
 The focus of this project is to provide strategic insights to the CEO of Etihad Airways regarding the profitability of US routes and optimal allocation of the newly acquired Airbus A350 aircraft. As Etihad expands its fleet with new A350s, the airline needs to make data-driven decisions on utilizing this aircraft model best to maximize profitability and efficiency on US routes. The project will analyze flight data for Etihad’s current US routes, examining seat capacity, flight frequency, distance, and aircraft type factors. Allowing the airline to see how some of the direct competitors are doing and how it had been most helpful to them when it comes to handling flights to and from the USA.
 
