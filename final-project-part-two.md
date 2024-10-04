@@ -84,11 +84,38 @@ Text here!
 |Interactive Filters for Comparison	    |Introduce an interactive filter that allows side-by-side comparisons between Etihad and its competitors, making benchmarking easier and more actionable.     |
 |Interactive Filters for Comparison	    |Add a visual to show the capacity of each aircraft type in the fleet and its average daily utilization to provide more context on operational efficiency.     |
 
-Final Thoughts: The planned changes for Part III focus on enhancing interactivity, adding detailed financial and growth metrics, and improving user understanding. While also closely compares itself with some of its competitors in terms of its aircraft fleet. Thus, on top of the landing page, I plan to add a dashboard to answer some detailed analysis questions.
+Final Thoughts: The planned changes for Part III focus on enhancing interactivity, adding detailed financial and growth metrics, and improving user understanding. It also closely compares itself with some of its competitors regarding its aircraft fleet. Thus, on top of the landing page, I plan to add a dashboard to answer detailed analysis questions.
 
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+# Personas
 
-Text here!
+## Persona1: Ahmed Mansoori
+**Role:** Senior Route Planner & Strategy Analyst  
+**Company:** Etihad Airways  
+**Age**: 42  
+**Location**: Abu Dhabi, UAE  
+
+**Background & Responsibilities:** Ahmed has 15 years of experience in route planning and network strategy at Etihad. He manages a team focused on optimizing routes and allocating aircraft efficiently to maximize profitability.
+
+**Goals:** Expand Etihad’s U.S. market by identifying high-potential hubs and routes and efficiently allocate new aircraft (Airbus A350) to enhance operational efficiency. Competing against Emirates and Qatar Airways to stay competitive. Thus, he provides data-driven insights to leadership for route and fleet decisions.
+
+**Pain Points & Needs:** Difficulty visualizing competitive positioning, lack of financial viability insights for routes, and limited scenario analysis tools. A comparative dashboard for benchmarking, insights into aircraft utilization, interactive filters, and financial projections.
+
+**Motivation:** Ahmed is committed to ensuring Etihad competes closely with its rivals in the U.S. by consistently providing robust, data-backed strategic insights to leadership.
+
+
+## Persona2: Fatima Al-Maktoum
+**Role:** Chief Executive Officer (CEO)  
+**Company:** Etihad Airways  
+**Age**: 50  
+**Location**: Abu Dhabi, UAE  
+
+**Background & Responsibilities:** Fatima has over 25 years of experience in the aviation industry, leading commercial strategy, operations, and company growth. As CEO, she oversees the overall business to ensure  Etihad continues its market expansion plan, the right fleet investments are made, and operational decisions align with the company’s long-term vision and profitability targets.
+
+**Goals:** Drive Etihad’s growth in the U.S. market by making strategic investments in fleet and route expansion. Enhance the airline’s market share and maintain a competitive edge against Emirates and Qatar Airways, which is possible by using data points to make strategic decisions.
+
+**Pain Points & Needs:** The company needs access to transparent, data-driven insights that summarize complex operational and market data into high-level strategic takeaways for quick decision-making. It requires a comprehensive dashboard that provides a big-picture overview of market opportunities and specific insights into fleet performance.
+
+**Motivation:** Fatima’s goal is to ensure Etihad remains a leading international brand in the aviation industry as it represents Abu Dhabi, expanding its market reach while maintaining high profitability and operational excellence.
+
 
