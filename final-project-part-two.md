@@ -59,37 +59,33 @@ Etihad executives and leadership committee which is responsible for making strat
 |Understand the usability and actionability of the dashboard      |Do you think this dashboard helps identify actionable areas for growth, such as key hubs to target or regions with untapped demand?                  |
 |Collect suggestions for improvement     |Is there anything you found confusing or that could be improved for better understanding?                  |
 
-
-Text here!
-
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (Product Manager) | Interview 2 (Route Planner) | Interview 3 (Analyst) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| How easy was it for you to understand the information presented in each visual?	 | The new color schemes are much more intuitive, but it suggested adding brief explanations for specific terms like fleet expansion.  |To improve labels and filter instructions, which are helpful for quickly understanding the data.   |The numerical labels on the visuals are useful, making interpreting the data without ambiguity easier.  |
+|Would you need additional data or another visual to help your decision-making process?                         |Suggested adding a visual comparing competitor airlines' market share trends for better benchmarking.                   |Recommended to make it dynamic by adding a new filter by airline type useful, but recommended visual comparing load factors across different routes.             |Appreciated the inclusion of comparative seat capacity but suggested adding more financial projections related to ROI on new aircraft investments.             |
+|Do you think this dashboard helps identify actionable areas for growth, such as key hubs to target or regions with untapped demand?	                         |Yes, particularly with the added action items section, which clarified specific growth areas.	                                |Found the growth summary section very helpful in identifying new routes and underutilized hubs for expansion.             |Emphasized that adding a financial summary (e.g., projected revenue increase by region) would improve actionability.             |
+|Is there anything you found confusing or that could be improved for better understanding?       |The seating capacity visual legend could be more distinct.             |Recommended adding a glossary for certain technical terms.             |Found no major issues but suggested adding a time-series filter to analyze data over different periods to spot trends. |
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+> After conducting three interviews, I identified a couple of insights, and it seems like developing a new interactive and simpler dashboard.
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Color Scheme and Clarity |Further refine color schemes for improved user experience across different types of devices. Add legends for certain elements.|                                          
+|Relevance of Information                                             |Adding financial context related to fleet expansion, while the route planner wanted the ability to compare aircraft types for route efficiency.|                |Route Optimization Analysis                                                                                 |Add a growth potential metric to prioritize route expansion decisions better. Incorporate trend lines or historical data for profitability comparisons.|                                          |                                                                                 |
+|Highlighting Competitive Hubs	           |Expand on competitive hub analysis by including more detailed annotations and comparative metrics for each key hub.|
+|Interactive Filters for Comparison	    |Introduce an interactive filter that allows side-by-side comparisons between Etihad and its competitors, making benchmarking easier and more actionable.     |
+|Interactive Filters for Comparison	    |Add a visual to show the capacity of each aircraft type in the fleet and its average daily utilization to provide more context on operational efficiency.     |
 
-> ...include any final thoughts you have here. 
+Final Thoughts: The planned changes for Part III focus on enhancing interactivity, adding detailed financial and growth metrics, and improving user understanding. While also closely compares itself with some of its competitors in terms of its aircraft fleet. Thus, on top of the landing page, I plan to add a dashboard to answer some detailed analysis questions.
 
-Text here!
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
