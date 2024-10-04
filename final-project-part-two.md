@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://dsahil12.github.io/SahilDesai-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Dashboard
 > The dashboard provides an overview of Etihad Airways' current strategy for managing its United States market. It focuses on three main aspects: U.S. route density, fleet expansion, and market opportunities in key global regions. Each visual on this dashboard conveys critical insights about Etihad's current operations and future growth areas as it expects 15 new Airbus A350s (long-haul aircraft).
