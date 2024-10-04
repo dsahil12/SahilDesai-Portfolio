@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Dashboard / Storyboards
+# Dashboard
 > The dashboard provides an overview of Etihad Airways' current strategy for managing its United States market. It focuses on three main aspects: U.S. route density, fleet expansion, and market opportunities in key global regions. Each visual on this dashboard conveys critical insights about Etihad's current operations and future growth areas as it expects 15 new Airbus A350s (long-haul aircraft).
 
 > Overall, it serves as a strategic guide for Etihad's decision-makers (CEO, Network Planners, Business Strategist). It acts as a landing page highlighting Etihad's positioning compared to some of its direct competitors, Emirates and Qatar Airways, in key U.S. hubs, opportunities to expand fleet capabilities, and the potential to connect U.S. cities with high-demand markets in Asia-Pacific and Europe. Overall, it helps the airline team plan to make decisions to meet demand and strengthen its presence in the regions.
@@ -89,7 +89,7 @@ Final Thoughts: The planned changes for Part III focus on enhancing interactivit
 
 # Personas
 
-## Persona1: Ahmed Mansoori
+## Persona 1: Ahmed Mansoori
 **Role:** Senior Route Planner & Strategy Analyst  
 **Company:** Etihad Airways  
 **Age**: 42  
@@ -104,7 +104,7 @@ Final Thoughts: The planned changes for Part III focus on enhancing interactivit
 **Motivation:** Ahmed is committed to ensuring Etihad competes closely with its rivals in the U.S. by consistently providing robust, data-backed strategic insights to leadership.
 
 
-## Persona2: Fatima Al-Maktoum
+## Persona 2: Fatima Al-Maktoum
 **Role:** Chief Executive Officer (CEO)  
 **Company:** Etihad Airways  
 **Age**: 50  
