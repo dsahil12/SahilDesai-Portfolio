@@ -77,11 +77,11 @@ The goal is to inform Etihad's leadership about its strategic positioning in the
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Color Scheme and Clarity |Further refine color schemes for improved user experience across different types of devices. Add legends for certain elements.|                                          
-|Relevance of Information                                             |Adding financial context related to fleet expansion, while the route planner wanted the ability to compare aircraft types for route efficiency.|                
-|Route Optimization Analysis                                  |Add a growth potential metric to prioritize route expansion decisions better. Incorporate trend lines or historical data for profitability comparisons.|                                          
-|Highlighting Competitive Hubs	           |Expand on competitive hub analysis by including more detailed annotations and comparative metrics for each key hub.|
-|Interactive Filters for Comparison	    |Introduce an interactive filter that allows side-by-side comparisons between Etihad and its competitors, making benchmarking easier and more actionable.     |
-|Interactive Filters for Comparison	    |Add a visual to show the capacity of each aircraft type in the fleet and its average daily utilization to provide more context on operational efficiency.     |
+|Relevance of Information|Adding financial context related to fleet expansion, while the route planner wanted the ability to compare aircraft types for route efficiency.|                
+|Route Optimization Analysis|Add a growth potential metric to prioritize route expansion decisions better. Incorporate trend lines or historical data for profitability comparisons.|                                          
+|Highlighting Competitive Hubs|Expand on competitive hub analysis by including more detailed annotations and comparative metrics for each key hub.|
+|Interactive Filters for Comparison|Introduce an interactive filter that allows side-by-side comparisons between Etihad and its competitors, making benchmarking easier and more actionable.|
+|Aircraft Type Analysis|Add a visual to show the capacity of each aircraft type in the fleet and its average daily utilization to provide more context on operational efficiency.|
 
 Final Thoughts: The planned changes for Part III focus on enhancing interactivity, adding detailed financial and growth metrics, and improving user understanding. It also closely compares itself with some of its competitors regarding its aircraft fleet. Thus, on top of the landing page, I plan to add a dashboard to answer detailed analysis questions.
 
