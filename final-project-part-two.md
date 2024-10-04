@@ -1,9 +1,9 @@
 | [home page](https://dsahil12.github.io/SahilDesai-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Dashboard
-> The dashboard provides an overview of Etihad Airways' current strategy for managing its United States market. It focuses on three main aspects: U.S. route density, fleet expansion, and market opportunities in key global regions. Each visual on this dashboard conveys critical insights about Etihad's current operations and future growth areas as it expects 15 new Airbus A350s (long-haul aircraft).
+The dashboard provides an overview of Etihad Airways' current strategy for managing its United States market. It focuses on three main aspects: U.S. route density, fleet expansion, and market opportunities in key global regions. Each visual on this dashboard conveys critical insights about Etihad's current operations and future growth areas as it expects 15 new Airbus A350s (long-haul aircraft).
 
-> Overall, it serves as a strategic guide for Etihad's decision-makers (CEO, Network Planners, Business Strategist). It acts as a landing page highlighting Etihad's positioning compared to some of its direct competitors, Emirates and Qatar Airways, in key U.S. hubs, opportunities to expand fleet capabilities, and the potential to connect U.S. cities with high-demand markets in Asia-Pacific and Europe. Overall, it helps the airline team plan to make decisions to meet demand and strengthen its presence in the regions.
+Overall, it serves as a strategic guide for Etihad's decision-makers (CEO, Network Planners, Business Strategist). It acts as a landing page highlighting Etihad's positioning compared to some of its direct competitors, Emirates and Qatar Airways, in key U.S. hubs, opportunities to expand fleet capabilities, and the potential to connect U.S. cities with high-demand markets in Asia-Pacific and Europe. Overall, it helps the airline team plan to make decisions to meet demand and strengthen its presence in the regions.
 
 <div class='tableauPlaceholder' id='viz1728005253760' style='position: relative'>
   <noscript>
@@ -42,10 +42,11 @@
 
 ## Target audience
 > The three primary audiences for this dashboard include:
+
 Etihad executives and leadership committee which is responsible for making strategic decisions on market expansion and fleet investments. Then, we have route planning and network strategy teams that focus on route optimization, flight frequency, and identifying growth opportunities. Lastly, we have business strategist that are interested in evaluating fleet expansion to the best optimal routs and assessing resource allocation for profitability.
 
 ## Goal
->The goal is to inform Etihad's leadership about its strategic positioning in the U.S. market, how it should make fleet allocation decisions, and help prioritize route expansion plans with its new aircraft to maximize market potential.  Thus, looking at route density, fleet strategy, and regional demand, the goal is to identify optimal areas for growth and make Etihad competitive against other leading Middle Eastern carriers.
+The goal is to inform Etihad's leadership about its strategic positioning in the U.S. market, how it should make fleet allocation decisions, and help prioritize route expansion plans with its new aircraft to maximize market potential.  Thus, looking at route density, fleet strategy, and regional demand, the goal is to identify optimal areas for growth and make Etihad competitive against other leading Middle Eastern carriers.
 
 
 ## Interview Objective
@@ -60,9 +61,6 @@ Etihad executives and leadership committee which is responsible for making strat
 |Collect suggestions for improvement     |Is there anything you found confusing or that could be improved for better understanding?                  |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 (Product Manager) | Interview 2 (Route Planner) | Interview 3 (Analyst) |
 |-------------------------|--------------------------------|-------------|-------------|
