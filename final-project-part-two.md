@@ -41,20 +41,23 @@
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+> The three primary audiences for this dashboard include:
+Etihad executives and leadership committee which is responsible for making strategic decisions on market expansion and fleet investments. Then, we have route planning and network strategy teams that focus on route optimization, flight frequency, and identifying growth opportunities. Lastly, we have business strategist that are interested in evaluating fleet expansion to the best optimal routs and assessing resource allocation for profitability.
 
-Text here!
+## Goal
+>The goal is to inform Etihad's leadership about its strategic positioning in the U.S. market, how it should make fleet allocation decisions, and help prioritize route expansion plans with its new aircraft to maximize market potential.  Thus, looking at route density, fleet strategy, and regional demand, the goal is to identify optimal areas for growth and make Etihad competitive against other leading Middle Eastern carriers.
 
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+## Interview Objective
+>The interviews aim to get feedback from executives or senior leadership, network planners, and different types of analysts regarding the dashboard's effectiveness and usability in supporting strategic decision-making.
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|Assess understanding and clarity of dashboard visuals      |How easy was it for you to understand the information presented in each visual?                  |
+|Evaluate the relevance of information for decision-making      |Would you need additional data or another visual to help your decision-making process?                  |
+|Determine the effectiveness of insights on fleet Expansion plan and route optimization      |How effective is the visual showing flight density across U.S. hubs in helping you understand where to prioritize additional routes or connections?                  |
+|Understand the usability and actionability of the dashboard      |Do you think this dashboard helps identify actionable areas for growth, such as key hubs to target or regions with untapped demand?                  |
+|Collect suggestions for improvement     |Is there anything you found confusing or that could be improved for better understanding?                  |
 
 
 Text here!
