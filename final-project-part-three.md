@@ -143,7 +143,7 @@ The detailed breakdown dashboard, **Flight Network and Capacity Insights**, targ
 ## References
 For this project, I primarily relied on my passion for aviation and my understanding of airline operations and network planning. Among all the sources I explored, the article from [Simple Flying](https://simpleflying.com/emirates-etihad-qatar-airways-us-networks-comparison/) was the most helpful and informative. It provided valuable insights into the industry that greatly contributed to shaping my data story.
 
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+# Final Thoughts
+It went pretty well, and I was able to see the vision of this project evolve over each phase. One of my initial goals was to create a network diagram similar to the ones I have seen airlines use in news features and industry presentations. I wish I could have had more time to build that, as it would have elevated the dashboard to a more polished, industry-ready look. Despite that, I’m pleased with the project’s overall progress and growth.
 
-Text here!
+The part that excited me most was analyzing how these popular Middle Eastern airlines perform in the U.S. market and understanding their network strategies. The exploration helped me better understand the competitive dynamics, and it was fascinating to see how Etihad, Emirates, and Qatar Airways operate within the U.S. Finally, I can say I am satisfied as the project moved from an abstract idea into a set of actionable insights through the dashboards. It allowed me to combine my passion for aviation with data storytelling, which I will carry with me. Thank you!
