@@ -119,7 +119,7 @@ The detailed breakdown dashboard, **Flight Network and Capacity Insights**, targ
 ### Flight Density Across U.S. Hubs
 **Design Decision:** The initial plan was to integrate a network visual with arches showing the origin and destination of each airline. However, I had issues with Tablue, so I tried 'kepler.gl'. I almost had it working but could not achieve the final visual I wanted. Below is the screenshot of my attempt. There was some issue with the latitude and longitude values. Thus, I pivoted to a map with bubble sizes indicating flight frequency, which showed operational density at key hubs.
 
-![Kepler](kepler.gl.ong)
+![Kepler](kepler.gl.png)
 
 **Takeaway:** The use of bubble sizes allowed for immediate differentiation between key hubs. I learned that geographic visualizations can effectively communicate market density, helping to communicate where Etihad should enhance its operations to keep pace with competitors.
 
