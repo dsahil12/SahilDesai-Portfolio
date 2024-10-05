@@ -23,16 +23,23 @@ Likewise, it also optimized A380 double-decker usage. While we expect new A350s,
 
 ![Initial Sketch](Initial Sketch.jpg)
 
-# The data
-> [Link to access the article](https://simpleflying.com/emirates-etihad-qatar-airways-us-networks-comparison/)
+# The Data
 
-The primary data source comes from Simple Flying, a well-known source for the latest trends and news in the aviation industry. This article discusses the most recent airline routes, connectivity, and seat capacity across three Middle Eastern airlines (Emirates, Etihad, and Qatar Airways). The dataset includes comprehensive flight information for September 2024, breaking down each airline’s operational details, like the number of routes. I manually broke down further information like departure and arrival cities. Likewise, we can see the distances, number of flights, and aircraft types. 
+The primary data source comes from [Simple Flying](https://simpleflying.com/emirates-etihad-qatar-airways-us-networks-comparison/), a well-known source for the latest trends and news in the aviation industry. This article discusses the most recent airline routes, connectivity, and seat capacity across three Middle Eastern airlines (Emirates, Etihad, and Qatar Airways). The dataset includes comprehensive flight information for September 2024, breaking down each airline’s operational details, like the number of routes. I manually broke down further information like departure and arrival cities. Likewise, we can see the distances, number of flights, and aircraft types. 
 
 A quick overview of the data (by Simple Fly) shows Emirates rates 14 routes, Qatar Airways has 11, and Etihad flies 4 routes. These routes are operated by aircraft, including the A380-800 and A350-1000, covering distances up to 8,334 miles. The distance and aircraft usage will help highlight each airline’s strategy for the US market. By comparing route efficiency and capacity, the data can support a business analysis of these airlines’ understanding of the approaches to serving long-haul US destinations.
 
 > [Link to the dataset I uploaded to Github, which consists of the data I will use to conduct this analysis.](MiddleEast Airlines.xlsx)
 
-# Method and medium
-> I plan to use Tableau Dasboard to make the visuals more engaging/interactive or RAWGraphs to build static visualizations.
+The second dataset comes from the [Statista](https://www.statista.com/statistics/619777/air-passenger-traffic-by-region/) research department. It highlights the worldwide share of air passenger traffic.
+
+> [Link to the dataset I uploaded to Github, which consists of the data I will use to conduct this analysis.](MiddleEast Airlines.xlsx)
+
+The third dataset comes from scraping the values from [Etihad's official page](https://www.etihad.com/en-us/fly-etihad/our-fleet). The page provides a breakdown of its current fleet and its details. 
+
+> [Link to the dataset I uploaded to Github, which consists of the data I will use to conduct this analysis.](MiddleEast Airlines.xlsx)
+
+# Method and Medium
+> I plan to use Tableau Dashboard to make the visuals more engaging/interactive or RAWGraphs to build static visualizations.
 
 Providing a clear and interactive overview of the insights. These tools will allow me to visualize key metrics, such as route profitability and aircraft allocation, in a way that helps Etihad’s CEO better understand passenger demand, route efficiency, and how to allocate their Airbus fleet strategically.
