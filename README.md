@@ -89,7 +89,10 @@ As seen above, the finalized version of the visualization has been tailored to h
 Simplified the color scheme to enhance clarity without overwhelming the viewer. There are 3 distinct columns to highlight critical attributes for a more streamlined look. This static, easy-to-read visualization is ideal for an executive audience, offering strategic insights in a less cluttered and more professional format.
 
 ### Final Project
-Here it might be helpful to include a high-level description of your final project.
+This project explores Etihad Airways' competitive positioning within the U.S. market by utilizing data analysis and visualization techniques. The goal was to provide actionable insights for decision-makers at Etihad regarding fleet allocation, market expansion, and network efficiency, focusing particularly on U.S. operations.
+
+![image](https://github.com/user-attachments/assets/b343ee1c-c5b8-4659-8055-1c1ab05afc8f)
+(Photo: BoeingMan777, Gabe Smith, Carlos Yudica, Pixels Hunter | Shutterstock)
 
 - [Part I: Project Proposal](final-project-part-one)
 - [Part II: Data Analysis and Visualization Development](final-project-part-two)
