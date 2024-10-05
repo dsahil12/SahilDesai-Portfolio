@@ -92,15 +92,26 @@
 
 > ### To further help users, here is the link that walks them through using the dashboard.
 
-# Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+# Changes made since Part I & II
+Since completing Part I, I made a few changes based on the instructor's feedback. I incorporated additional data sources to enhance the analysis, allowing for a more comprehensive comparison between Etihad and its competitors. These additional sources helped enrich the narrative by providing broader insights into regional traffic and Etihad's current fleet capacities. The integration of this new data has been updated in Part I's documentation with a short description. 
 
-Text here!
+Next, in Part II, the focus was on refining and expanding the initial dashboard based on user research findings and feedback. The dashboard in part II was designed to showcase a broad range of data that targeted various audiences. Thus, I transformed it into a landing page that serves as a high-level overview for decision-makers at Etihad Airways. This static dashboard landing page provides immediate insights into U.S. market opportunities and fleet allocation. 
+
+I reduced the number of visuals based on user interviews, emphasizing key KPIs and direct comparability. Key changes included:
+- **Simplifying Dashboards**: We now have two main dashboards. One provides an overview of U.S. operations, and the other focuses on flight network insights for leadership.
+- **Single Filter for Comparisons**: Added an easy-to-use filter for side-by-side comparison with competitors.
+- **Actionable KPIs**: Highlighted key KPIs and metrics, such as flight frequency by hub, to support quick strategic decision-making in the new dashboard.
+
+Overall, the dashboard evolved from a broad analysis tool to a targeted decision-making asset tailored to the needs of Etihad’s leadership.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+> Dashboard 1
 
-Text here!
+The landing page dashboard, titled **Overview of Etihad’s U.S. Operations, Fleet Expansion, and Market Potential**, is designed specifically for strategy developers at Etihad Airways. This audience includes senior route planners, market strategists, and those responsible for analyzing growth opportunities. The landing page offers a broad, high-level overview of Etihad’s current U.S. market footprint, fleet expansion plans, and regional market potential. The visuals provide insights into flight density at key U.S. hubs, fleet growth strategy, and the importance of connecting U.S. hubs to major international regions such as Asia-Pacific and Europe. The dashboards visualize and support strategy development by focusing on growth opportunities and competitive positioning without overwhelming users with unnecessary details.
+
+> Dashboard 2
+
+The detailed breakdown dashboard, **Flight Network and Capacity Insights**, targets Etihad’s senior decision-makers, including the CEO and the leadership board. It provides a more detailed look into Etihad’s operational metrics, such as seat capacity, route coverage, flight frequency, and comparisons to major competitors. Knowing that leadership prefers quick, actionable insights, this dashboard focuses on key performance indicators and includes an easy-to-use filter for comparing metrics across competitors. The goal of making this dashboard a highly functional decision-support tool is to provide the leadership team with precise data to inform fleet allocation and market expansion strategies.
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
