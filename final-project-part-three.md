@@ -88,6 +88,9 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+<br>
+
+> ### To further help users, here is the link that walks them through using the dashboard.
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
