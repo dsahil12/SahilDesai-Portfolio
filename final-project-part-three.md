@@ -44,9 +44,9 @@
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+<br>
 
-
-Text here!
+>To drill down further, we have a dynamic dashboard (dashboard 2) that compares Etihad’s flight network and capacity across major U.S. destinations, positioning Etihad against Emirates and Qatar Airways. This particular dashboard is made with the primary users (leadership) in mind, as it has minimal visuals and a major focus on displaying values. Overall, the dashboard offers interactive features to compare route coverage, flight frequency, and aircraft utilization across the “Big Three” airlines in the Middle East. It also highlights where Etihad can enhance its network to gain a competitive edge.
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
