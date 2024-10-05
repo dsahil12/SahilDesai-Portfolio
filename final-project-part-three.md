@@ -1,7 +1,50 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+> Below is the landing page (dashboard 1), which gives an overview of Etihad Airways' U.S. operations, fleet expansion, and market potential. Providing insights into key Americas hubs, focusing on flight density, fleet expansion plans, and global market trends. While giving you insights on fleet allocation, the data highlights the newly ordered Airbus A350 and the existing inventory of Boeing 787 aircraft. This helps strategize and maximize profitability while enhancing long-haul capabilities. Explore how Etihad can leverage these insights for efficient aircraft deployment and a stronger market presence.
+<div class="tableauPlaceholder" id="viz1728153109713" style="position: relative;">
+    <noscript>
+        <a href="#">
+            <img alt="Overview of Etihad's U.S. Operations, Fleet Expansion, and Market Potential"
+                 src="https://public.tableau.com/static/images/Fi/FinalProject_17280005525260/OverviewofEtihadsU_S_OperationsFleetExpansionandMarketPotential/1_rss.png"
+                 style="border: none;" />
+        </a>
+    </noscript>
+    <object class="tableauViz" style="display: none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+        <param name="embed_code_version" value="3" />
+        <param name="site_root" value="" />
+        <param name="name" value="FinalProject_17280005525260/OverviewofEtihadsU_S_OperationsFleetExpansionandMarketPotential" />
+        <param name="tabs" value="no" />
+        <param name="toolbar" value="yes" />
+        <param name="static_image" value="https://public.tableau.com/static/images/Fi/FinalProject_17280005525260/OverviewofEtihadsU_S_OperationsFleetExpansionandMarketPotential/1.png" />
+        <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" />
+        <param name="display_spinner" value="yes" />
+        <param name="display_overlay" value="yes" />
+        <param name="display_count" value="yes" />
+        <param name="language" value="en-US" />
+    </object>
+</div>
+
+<script type="text/javascript">
+    var divElement = document.getElementById('viz1728153109713');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    if (divElement.offsetWidth > 800) {
+        vizElement.style.width = '1000px';
+        vizElement.style.height = '827px';
+    } else if (divElement.offsetWidth > 500) {
+        vizElement.style.width = '1000px';
+        vizElement.style.height = '827px';
+    } else {
+        vizElement.style.width = '100%';
+        vizElement.style.height = '1027px';
+    }
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 
 Text here!
 
