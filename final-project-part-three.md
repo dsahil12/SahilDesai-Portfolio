@@ -90,7 +90,7 @@
 </script>
 <br>
 
-> ### [To further help users, here is the link that walks them through using the dashboard.](Etihad Airways Dashboard Guide.pdf)
+> ### [Here is the link to download the documentation to further help you interact with the dashboards.](Etihad Airways Dashboard Guide.pdf)
 
 # Changes Made Since Part I & II
 Since completing Part I, I made a few changes based on the instructor's feedback. I incorporated additional data sources to enhance the analysis, allowing for a more comprehensive comparison between Etihad and its competitors. These additional sources helped enrich the narrative by providing broader insights into regional traffic and Etihad's current fleet capacities. The integration of this new data has been updated in Part I's documentation with a short description. 
