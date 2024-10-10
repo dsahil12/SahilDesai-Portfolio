@@ -108,10 +108,10 @@ Overall, the dashboard evolved from a broad analysis tool to a targeted decision
 Based on audience feedback at the Grace Hopper Celebration (GHC), I made two key adjustments to refine further the dashboard's effectiveness and alignment with Etihad Airlines' branding and strategic objectives.
 
 Rearranged Visuals for Dashboard 1:
-- 1. People recommended rearranging the visuals to improve the narrative flow. The suggestion was to place the "Flight Density Across U.S. Hubs Based on Daily Operations for Etihad and Competitors" at the bottom of the dashboard. Making this change will allow for a more structured storytelling approach, where I can begin with a broader overview of global airline traffic in 2023 before narrowing the focus to U.S. operations. By starting with a high-level regional summary and progressively drilling down to specifics, the dashboard better supports leadership's ability to make informed, data-driven decisions on both macro and micro levels.
+- People recommended rearranging the visuals to improve the narrative flow. The suggestion was to place the "Flight Density Across U.S. Hubs Based on Daily Operations for Etihad and Competitors" at the bottom of the dashboard. Making this change will allow for a more structured storytelling approach, where I can begin with a broader overview of global airline traffic in 2023 before narrowing the focus to U.S. operations. By starting with a high-level regional summary and progressively drilling down to specifics, the dashboard better supports leadership's ability to make informed, data-driven decisions on both macro and micro levels.
      
 Color Scheme Update to Reflect Etihad Airlines’ Branding:
-- 1. Another recommendation was to update the color scheme to better reflect Etihad’s identity. Incorporating Etihad’s official colors into the dashboard visuals makes the presentation more cohesive and instantly recognizable to internal stakeholders. This change will improve the visual appeal and strengthen brand alignment, making it easier for leadership to connect the data presented with the company’s overall strategic vision.
+- Another recommendation was to update the color scheme to better reflect Etihad’s identity. Incorporating Etihad’s official colors into the dashboard visuals makes the presentation more cohesive and instantly recognizable to internal stakeholders. This change will improve the visual appeal and strengthen brand alignment, making it easier for leadership to connect the data presented with the company’s overall strategic vision.
 
 
 ## The Audiences
