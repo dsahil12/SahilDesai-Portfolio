@@ -98,7 +98,4 @@ This project explores Etihad Airways' competitive positioning within the U.S. ma
 - [Part II: Data Analysis and Visualization Development](final-project-part-two)
 - [Part III: Final Presentation and Reflections](final-project-part-three)
 
-### Additional Examples
-This section can be used to include examples from in-class demos, other work, or personal projects related to data visualization and storytelling.
-
 ---
